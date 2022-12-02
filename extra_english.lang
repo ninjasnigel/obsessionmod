@@ -1,0 +1,49 @@
+<LANGUAGE>
+<CATEGORY Name="CustomStoryMain">
+	<Entry Name="Description">You wake up in the woods, you don't remeber anything, you must seek a place too hide the night.[br][br]Play with headphones at loud volume in a dark room for best experience![br][br][br][br]- Good luck![br][br][br][br][br][br][br][br] For any questions add me on steam "thenamnelesspro"</Entry>
+</CATEGORY>
+<CATEGORY Name="Journal">  
+    <Entry Name="Note1_Name">Journal</Entry>
+	<Entry Name="Note_note1_Name">Day 1</Entry>
+	<Entry Name="Note_note1_Text">Day 1:[br]After my son's death ive become possessed with trying to wake him up. Ive spent endless weeks in the laboratory. My wife told me to go to the psychologist and he told me it would help to write a diary.</Entry>
+	<Entry Name="Note_note2_Name">Day 2</Entry>
+	<Entry Name="Note_note2_Text">Day 2:[br]It seems like i've found something that might work, I will test it on the rats tomorrow.[br]My wife is always mad at me for not caring about her and only spending time in my office and the laboratory, i feel bad, maybe i should do as she says, but a can't stop! I'm going to fix meat tonight, hope she will get happy.</Entry>
+	<Entry Name="Note_note3_Name">Day 3 </Entry>
+	<Entry Name="Note_note3_Text">Day 3:[br]It looks like i had had an effect on the rats, their heart stated to beat but no movement.[br]I Accidently spilled some of the liquid on the floor, i'm feeling sick, and seeing some werid hallucianationes, I hope this won't couse anything bad...</Entry>
+	<Entry Name="Note_note4_Name">Day 4</Entry>
+	<Entry Name="Note_note4_Text">My hallucinationes are getting really fucked up. Im flying froom room to room without knowing anything and seeing this that aren't real...[br]And... the rats have started to mutate werid, but they are still alive, at least some succes. I think i have found the right thing to try. Going to test it on the rats....</Entry>
+	<Entry Name="Note_note5_Name">Day 5</Entry>
+	<Entry Name="Note_note5_Text">TEXT</Entry>
+	<Entry Name="Note_note6_Name">Day 6</Entry>
+	<Entry Name="Note_note6_Text">TEXT</Entry>
+	<Entry Name="Note_note7_Name">Day 7</Entry>
+	<Entry Name="Note_note7_Text">TEXT</Entry>
+	<Entry Name="Note_note8_Name">Day 8</Entry>
+	<Entry Name="Note_note8_Text">TEXT</Entry>
+	<Entry Name="Note_noteextra_Name">End of beta</Entry>
+	<Entry Name="Note_noteextra_Text">End of line[br]The beta ends here hope you enjoyed it and please give me feedback[br][br][br][br][br][br][br]//SirEagle[br]Steam: thenamnelesspro</Entry>
+</CATEGORY>
+<CATEGORY Name="Inventory">
+	<Entry Name="ItemName_key_study_1">a key</Entry>
+	<Entry Name="ItemDesc_key_study_1">Looks like a key to a normal inside door.</Entry>
+	<Entry Name="ItemName_nyckel2">a small key</Entry> 
+	<Entry Name="ItemDesc_nyckel2">It lookes like this key can be used to open something small, like a desktop door.</Entry>
+	<Entry Name="ItemName_key_study_3">a key</Entry>
+	<Entry Name="ItemDesc_key_study_3">This looks like a key to a normal inside room-door.</Entry>
+	<Entry Name="ItemName_key_study_4">a key</Entry>
+	<Entry Name="ItemDesc_key_study_4">Y u no open the door i want!</Entry>
+	<Entry Name="ItemName_saksak">a glass container with liquid</Entry>
+	<Entry Name="ItemDesc_saksak">a glass container with a liquid that looks like it can burn a lock</Entry>
+</CATEGORY>
+<CATEGORY Name="Levels">
+    <Entry Name="locked_1">This door seems to be locked from the other side, i can't open this with a key, I need something else...</Entry> RRRRRR
+	<Entry Name="locked_2">Shit, someone must have destroyed the lock, i can't go back now...</Entry>
+	<Entry Name="locked_3">The lock broke and a need a crowbar to open this door.</Entry> 
+	<Entry Name="locked_4">"The Upper Spire"</Entry> 
+	<Entry Name="lookat1">The woods</Entry>
+	<Entry Name="lookat2">Upstairs</Entry>
+	<Entry Name="lookat0">Inside</Entry>
+	<Entry Name="lookat3">The basement</Entry>
+</CATEGORY>
+
+</LANGUAGE>
